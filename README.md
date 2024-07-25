@@ -1,0 +1,1 @@
+Ces notebooks sont exploitables localement. Vosu y trouverez des fichiers expliquant comment mettre en place un Dashboard PowerBI ainsi que des techniques d'interprétabilité des modèles de Machine Learning.
